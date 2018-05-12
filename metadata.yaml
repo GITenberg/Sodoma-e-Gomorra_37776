@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39053'
     url: http://www.gutenberg.org/2009/agents/39053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37776#Sodoma-e-Gomorra
 gutenberg_bookshelf: IT Psicologia e Sociologia
 gutenberg_issued: '2011-10-16'
 gutenberg_type: Text
